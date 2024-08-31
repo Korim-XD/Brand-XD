@@ -1,3 +1,2 @@
 import fire
-
-fire.KORIM()
+fire.import()
