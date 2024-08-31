@@ -4,4 +4,4 @@ bit = platform.architecture()[0]
 if bit=='64bit':
     import fire
 elif bit=='32bit':
-    import fire
+    import fire ()
