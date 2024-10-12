@@ -1,2 +1,2 @@
 import fire
-fire.____Main___()
+fire____Main___()
